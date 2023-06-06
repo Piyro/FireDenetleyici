@@ -1,2 +1,3 @@
 # FireDenetleyici
-MağazaFireDenetleyicisi, mağazadaki personeli bozulan ürünler hakkında uyaran sistem.
+MağazaFireDenetleyicisi; mağaza personelini ürün bozulunca uyaran sistem.
+Yerel Market için tasarlandı.
